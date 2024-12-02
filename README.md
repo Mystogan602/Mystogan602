@@ -4,6 +4,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mystogan602&show_icons=true&theme=tokyonight )
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mystogan602)](https://github.com/Mystogan602/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mystogan602)](https://github.com/Mystogan602/github-readme-stats)
 <!--
 **Mystogan602/Mystogan602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
