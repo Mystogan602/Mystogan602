@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 
 <p align=center> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mystogan602&show_icons=true&include_all_commits=true&theme=tokyonight_duo&hide_border=true" alt="Mystogan602's github stats" height="230px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mystogan602&show_icons=true&include_all_commits=true&theme=tokyonight_duo&hide_border=true" alt="Mystogan602's github stats"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystogan602&layout=compact&theme=tokyonight_duo&hide_border=true" height="230px" /></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystogan602&layout=compact&theme=tokyonight_duo&hide_border=true"/></a> 
 </p>
 </details>
 
