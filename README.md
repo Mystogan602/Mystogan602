@@ -4,8 +4,9 @@ My name is Pham Minh Tien, and I am a recent graduate from VNU-HCMUS. I am a fre
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="300" height="200" width="250" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+
 - 🎓 Graduated from VNU-HCMUS.
 - 💻 I’m currently working on improving my skills as a fullstack developer.
 - 🌱 I’m eager to learn more about modern frameworks and technologies.
