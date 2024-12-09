@@ -13,11 +13,11 @@ My name is Pham Minh Tien, and I am a recent graduate from VNU-HCMUS. I am a fre
 - 👯 I’m looking to collaborate on exciting projects and gain practical experience.
 - 📫 Feel free to reach out to me at phamtien0602@gmail.com.
 
+I am excited about the journey ahead and look forward to becoming a proficient fullstack developer in the future!
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px"><b> Github Stats </b>
 <details><summary><b>🔥 Streak Stats</b></summary>
-
-	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mystogan602&theme=tokyonight_duo" alt="7oSkaaa" /></p>
-
+	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mystogan602&theme=tokyonight_duo" alt="7oSkaaa"></p>
 </details>
 
 <details><summary><b>💻 GitHub Profile Stats</b></summary>
