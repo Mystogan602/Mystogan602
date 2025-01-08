@@ -25,7 +25,7 @@ I am excited about the journey ahead and look forward to becoming a proficient f
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px"><b> Github Stats </b>
 <details><summary><b>🔥 Streak Stats</b></summary>
-	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mystogan602&theme=tokyonight_duo" alt="7oSkaaa"></p>
+	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mystogan602&theme=tokyonight_duo" alt="Mystogan"></p>
 </details>
 
 <details><summary><b>💻 GitHub Profile Stats</b></summary>
