@@ -25,22 +25,22 @@ I am excited about the journey ahead and look forward to becoming a proficient f
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px"><b> Github Stats </b>
 <details><summary><b>🔥 Streak Stats</b></summary>
-	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mystogan602&theme=tokyonight_duo" alt="Mystogan"></p>
+	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mystogan602&theme=buefy" alt="Mystogan"></p>
 </details>
 
 <details><summary><b>💻 GitHub Profile Stats</b></summary>
 	<p align=center> 
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mystogan602&show_icons=true&include_all_commits=true&theme=tokyonight_duo&hide_border=true" alt="Mystogan602's github stats"/>
+	  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mystogan602&show_icons=true&include_all_commits=true&theme=buefy" alt="Mystogan602's github stats"/>
 	</a>
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystogan602&layout=compact&theme=tokyonight_duo&hide_border=true"/></a> 
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystogan602&layout=compact&theme=buefy"/></a> 
 	</p>
 </details>
 
 <details><summary><b>:trophy: Git profile Trophies</b></summary>
 	<div align=center>
 	  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-	      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Mystogan602&theme=tokyonight_duo&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+	      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Mystogan602&theme=buefy&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
 	    </a>
 	</div>
 </details>
@@ -145,7 +145,7 @@ I am excited about the journey ahead and look forward to becoming a proficient f
 </p>
 
 <p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight_duo&animation=grow_out_in&quoteCategory=programming">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=buefy&animation=grow_out_in&quoteCategory=programming">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
